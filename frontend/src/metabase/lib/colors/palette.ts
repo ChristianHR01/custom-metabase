@@ -12,10 +12,10 @@ export const ACCENT_COUNT = 8;
 // frontend/src/metabase/styled-components/containers/GlobalStyles/GlobalStyles.tsx
 // frontend/src/metabase/styled-components/theme/css-variables.ts
 export const colors = {
-  brand: "#509EE3",
+  brand: "#121212",
   summarize: "#88BF4D",
   filter: "#7172AD",
-  accent0: "#509EE3",
+  accent0: "#121212",
   accent1: "#88BF4D",
   accent2: "#A989C5",
   accent3: "#EF8C8C",
